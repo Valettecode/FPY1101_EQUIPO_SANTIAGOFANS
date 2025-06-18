@@ -1,4 +1,5 @@
-print("Santiago eres entero weon")
+while True
+ print("Santiago eres entero weon")
 
 s=int(input("Es santiago weon?(1-si)(2-no)")
 if s=1
