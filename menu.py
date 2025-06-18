@@ -20,6 +20,3 @@ while True:
  pass # Aquí se llamará a la función del integrante 3
  else:
  print(" Opción inválida.")
-
-
-EL RAIMUNDO ES TONTITO PORQUE NO SE LLAMA SANTIAGO ASI COMO YO QUE SOY UN GENIO Y UN CRACK Y ME SACO 7 EN MATEMATICAS JIJIJAJA
