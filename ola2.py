@@ -5,3 +5,5 @@ if s=1
 print ("JAJAJAJ SANTIAGO ERES DEMASIADO INVESIL)
        else:
 print("de todas formas santiago es tonto, gracias)
+
+      ME LLAMO KHRIS Y SOY IMBECIIIL
