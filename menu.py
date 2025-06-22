@@ -16,7 +16,8 @@ while True:
  pass # Aquí se llamará a la función del integrante 1
  elif op == "2":
  pass # Aquí se llamará a la función del integrante 2
- elif op == "3":
- pass # Aquí se llamará a la función del integrante 3
+ elif op == "3":# Aquí se llamará a la función del integrante 3
+ pass
+ elif op=="4:"# Aquí se llamará a la función del integrante 4
  else:
  print(" Opción inválida.")
