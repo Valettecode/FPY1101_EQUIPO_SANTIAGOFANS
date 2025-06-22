@@ -1,5 +1,5 @@
 def datos_diego():
- print("mi nombre es diego y tengo 21 años")# Menú base del programa
+ print("mi nombre es diego y tengo 21 años")
 while True:
  print("\n--- MENÚ PRINCIPAL ---")
  print("1. Función de integrante 1")
