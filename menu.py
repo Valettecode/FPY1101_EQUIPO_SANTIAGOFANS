@@ -18,6 +18,6 @@ while True:
  elif op == "3":# Aquí se llamará a la función del integrante 3
  pass
  elif op=="4:"# Aquí se llamará a la función del integrante 4
- datos_diego
+ datos_raimundo
  else:
  print(" Opción inválida.")
