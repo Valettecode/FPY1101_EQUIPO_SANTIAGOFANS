@@ -1,7 +1,5 @@
 def datos_raimundo():
  print("Mi nombre es Raimundo Navarro y tengo 19 años")
-
-# Menú base del programa
 while True:
  print("\n--- MENÚ PRINCIPAL ---")
  print("1. Función de integrante 1")
