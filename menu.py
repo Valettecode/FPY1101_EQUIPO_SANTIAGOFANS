@@ -1,6 +1,5 @@
 def datos_khristian():
 print("Mi nombre es Khristian Acevedo y tengo 18 años.")
-# Menú base del programa
 while True:
  print("\n--- MENÚ PRINCIPAL ---")
  print("1. Función de integrante 1")
