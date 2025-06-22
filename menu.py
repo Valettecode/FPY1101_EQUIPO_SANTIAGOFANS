@@ -14,12 +14,12 @@ while True:
  print("Programa finalizado.")
  break
  elif op == "1":
- datos_raimundo()
+ pass
  elif op == "2":
  pass # Aquí se llamará a la función del integrante 2
  elif op == "3":
  pass # Aquí se llamará a la función del integrante 3
  elif op =="4":
- pass
+ datos_raimundo()
  else:
  print(" Opción inválida.")
