@@ -1,5 +1,5 @@
 def datos_raimundo():
- print("Mi nombre es Raimundo Navarro y tengo 19 años")
+ print("mi nombre es raimundo y tengo 19 años")
 while True:
  print("\n--- MENÚ PRINCIPAL ---")
  print("1. Función de integrante 1")
@@ -12,13 +12,12 @@ while True:
  print("Programa finalizado.")
  break
  elif op == "1":
- pass
+ pass # Aquí se llamará a la función del integrante 1
  elif op == "2":
  pass # Aquí se llamará a la función del integrante 2
- elif op == "3":
- pass # Aquí se llamará a la función del integrante 3
- elif op =="4":
- datos_raimundo()
+ elif op == "3":# Aquí se llamará a la función del integrante 3
  pass
+ elif op=="4:"# Aquí se llamará a la función del integrante 4
+ datos_diego
  else:
  print(" Opción inválida.")
