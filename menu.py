@@ -1,6 +1,6 @@
 # Menú base del programa
 def Datos_Santiago():
- print("Mi nombre es Santiago Esteva y tengo 21 años")
+ print("Mi nombre es Santiago Esteva y tengo 21 años, hola")
 while True:
  print("\n--- MENÚ PRINCIPAL ---")
  print("1. Función de integrante 1")
