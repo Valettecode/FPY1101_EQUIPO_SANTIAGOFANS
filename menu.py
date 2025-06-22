@@ -1,5 +1,5 @@
 def Datos_Santiago():
- print("Mi nombre es Santiago Esteva y tengo 21 años, hola")
+ print("Mi nombre es Santiago Esteva y tengo 21 años, holaa")
 while True:
  print("\n--- MENÚ PRINCIPAL ---")
  print("1. Función de integrante 1")
