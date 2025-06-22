@@ -9,3 +9,6 @@ print("de todas formas santiago es tonto, gracias")
 print("aaa")
 
 print("madre mia chaval")
+
+Github con friendly fire porque eres asi
+SANTIAGO ESTUVO AQUI
